@@ -10,7 +10,7 @@ export default function Layout() {
     <div>
      <Navbar/>
       <SwitchTransition>
-        <CSSTransition timeout={2000} classNames='fade' key={location.pathname}>
+        <CSSTransition timeout={1000} classNames='fade' key={location.pathname}>
             <div className='max-w-6xl mx-auto p-3'>
                 <Outlet/>
             </div>
