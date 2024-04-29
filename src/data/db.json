@@ -1,22 +1,69 @@
 {
-    "books" : [
-        {
-            "id" : 1,
-            "title" : "Eloquent javascript",
-            "description" : "Best JS book",
-            "categories" : ["Javascript","Programming"]
-        },
-        {
-            "id" : 2,
-            "title" : "Laravel from scratch",
-            "description" : "Best PHP framework book",
-            "categories" : ["PHP","Programming", "Laravel"]
-        },
-        {
-            "id" : 3,
-            "title" : "React Basic",
-            "description" : "Best JS Library book",
-            "categories" : ["React","Programming", "Javascript"]
-        }
-    ]
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent javascript",
+      "description": "Best JS book",
+      "categories": [
+        "Javascript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Laravel from scratch",
+      "description": "Best PHP framework book",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Laravel"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React Basic",
+      "description": "Best JS Library book",
+      "categories": [
+        "React",
+        "Programming",
+        "Javascript"
+      ]
+    },
+    {
+      "id": "eec9",
+      "title": "title",
+      "description": "description",
+      "categories": [
+        "cat1",
+        "cat"
+      ]
+    },
+    {
+      "id": "95db",
+      "title": "title",
+      "description": "description",
+      "categories": [
+        "cat1",
+        "cat"
+      ]
+    },
+    {
+      "id": "3a29",
+      "title": "title",
+      "description": "description",
+      "categories": [
+        "cat1",
+        "cat"
+      ]
+    },
+    {
+      "id": "f557",
+      "title": "title 1",
+      "description": "descrition 1",
+      "categories": [
+        "cat2",
+        "cat1"
+      ]
+    }
+  ]
 }
